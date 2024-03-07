@@ -1,6 +1,6 @@
 import { readNumber, display } from '../../../../lib/dom-io.js';
 
-document.getElementById(__).addEventListener('click', () => {
+document.getElementById('do-math').addEventListener('click', () => {
   debugger;
 
   // read user values

@@ -46,8 +46,8 @@ console.log('- b, after:', typeof b, b);
 let c = 0;
 console.log('- c, before:', typeof c, c);
 for (let i = 0; i > -1; i++) {
-  c = c + 1;
-  console.log('c, looping:', typeof c, c);
+ c = c + 1;
+ console.log('c, looping:', typeof c, c);
 }
 console.log('- c, after:', typeof c, c);
 

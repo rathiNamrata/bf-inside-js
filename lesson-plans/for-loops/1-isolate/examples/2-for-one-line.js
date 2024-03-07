@@ -21,7 +21,7 @@ console.log('-- begin --');
 // 2: declare and assign i
 // 3, 6, 7, 11: evaluate the condition
 // 5, 10, 11, 13: increment i
-for (let step = 0; step < 3; step++) {
+for (let step = 0; step <= 10; step++) {
   // 4, 7, 10: evaluate the body
   console.log(step);
 }
