@@ -26,3 +26,14 @@ const lastName = 'Pierre';
 const fullName = firstName + ' ' + lastName;
 
 console.assert(fullName === 'Brobes Pierre');
+// string
+// const firstName = 'Jane';
+
+// console.log(firstName.toLowerCase());
+
+// arrays
+const names = ['Neha', 'Inna', 'Ali', 'Rabita', 'Preethi', 'Ervin'];
+
+names.forEach((name) => {
+  console.log(name);
+});
